@@ -1,0 +1,3 @@
+{"time":"2023-10-20 02:57:03.087","type":"INFO","component":"Server","db":null,"message":"ArcadeDB Server started in \u0027development\u0027 mode (CPUs\u003d12 MAXRAM\u003d1,96GB)"}
+{"time":"2023-10-20 02:57:03.114","type":"WARNING","component":"JVM","db":null,"message":"Available space on disk is only 9%"}
+{"time":"2023-10-20 02:58:24.258","type":"INFO","component":"Server","db":null,"message":"Server shutdown correctly"}
